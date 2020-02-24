@@ -1,0 +1,13 @@
+name: Module3
+title: Module3
+username:
+account: jiacheng-miao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1502403
+bundleId: 2605192
+url: https://jiacheng-miao.shinyapps.io/Module3/
+when: 1574286874.24352
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Shiny_Yelp.R

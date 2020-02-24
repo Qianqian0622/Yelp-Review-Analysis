@@ -1,0 +1,1180 @@
+,name,latitude,longitude,state,city
+0,Marco's Pizza,41.70852,-81.359556,OH,Mentor-on-the-Lake
+1,Domino's Pizza,43.6406266,-79.5389165,ON,Etobicoke
+2,Little Caesars Pizza,43.9994281,-79.2368879,ON,Whitchurch-Stouffville
+3,Pizza Hut,33.479506,-112.046931,AZ,Phoenix
+4,Boston Pizza,51.1638004829,-114.1261184399,AB,Calgary
+5,Little Caesars Pizza,43.9988029,-79.474695,ON,Aurora
+6,Boston Pizza,43.769460064,-79.4130655378,ON,North York
+7,Pizza Pizza,43.6503226,-79.3900762,ON,Toronto
+8,Pizza Hut,51.0386268,-113.9667961,AB,Calgary
+9,Pizza Hut,41.465371,-81.760242,OH,Cleveland
+10,Pizza Hut,40.4270688,-79.937582,PA,Pittsburgh
+11,Hungry Howie's Pizza,35.3110293,-80.716159,NC,Charlotte
+12,Pizza Pizza,43.6599362,-79.5832703,ON,Etobicoke
+13,Domino's Pizza,43.8612259038,-79.3116023107,ON,Markham
+14,Pizza Hut,35.4367769658,-80.6797029963,NC,Kannapolis
+15,Papa John's Pizza,33.3922513145,-111.9077147293,AZ,Tempe
+16,Hungry Howie's Pizza,35.088038,-80.860588,NC,Charlotte
+17,Marco's Pizza,35.1704967136,-80.6608630869,NC,Mint Hill
+18,Pizza Hut,35.0354342,-80.9721178,SC,Fort Mill
+19,Pizza Hut,36.115157,-115.2319877,NV,Las Vegas
+20,Papa John's Pizza,35.2730597,-80.9358721,NC,Charlotte
+21,Little Caesars Pizza,35.0053328,-80.9455681,SC,Fort Mill
+22,Pizza Nova,43.9264369542,-79.4513516204,ON,Richmond Hill
+23,Papa John's Pizza,41.1656975,-81.441558,OH,Stow
+24,Pizza Hut,43.7637357,-79.2920401,ON,Scarborough
+25,Domino's Pizza,40.5897698975,-79.7250798717,PA,New Kensington
+26,Papa John's Pizza,43.0146904387,-89.4983652026,WI,Madison
+27,Pizza Hut,33.3644506,-111.9131709,AZ,Tempe
+28,Pizza Hut,36.1441807,-115.0628631,NV,Las Vegas
+29,Pizza Hut,33.5551465,-112.1005889,AZ,Phoenix
+30,Pizza Hut,44.0550795,-79.474812,ON,Newmarket
+31,Pizza Hut,36.1715690619,-115.2090418909,NV,Las Vegas
+32,Papa John's Pizza,35.172285,-80.660703,NC,Mint Hill
+33,Papa John's Pizza,36.1020213,-115.2966767,NV,Las Vegas
+34,Papa John's Pizza,35.2322636,-81.1675409,NC,Gastonia
+35,Pizza Hut,40.3369138,-79.8100027,PA,White Oak
+36,Pizza Hut,36.169353,-115.061694,NV,Las Vegas
+37,Pizza Hut,43.7705231,-79.1864221,ON,Scarborough
+38,Papa Murphy's,33.3044612,-111.9945753,AZ,Phoenix
+39,Domino's Pizza,36.020876,-115.047722,NV,Henderson
+40,Papa John's Pizza,35.2542070335,-81.0416600544,NC,Belmont
+41,Domino's Pizza,33.3371177,-111.7571813,AZ,Gilbert
+42,Pizza Hut,40.3672648,-80.1040994,PA,Bridgeville
+43,Papa John's Pizza,33.5387916,-112.0480464,AZ,Phoenix
+44,Pizza Hut,41.1096793,-81.5702316,OH,Akron
+45,Little Caesars Pizza,41.1562919617,-81.861114502,OH,Medina
+46,Pizza Pizza,43.5806084,-79.6476882,ON,Mississauga
+47,Little Caesars Pizza,33.2932515,-111.788994,AZ,Gilbert
+48,Papa Murphy's,36.2390814,-115.2094336,NV,Las Vegas
+49,Papa John's Pizza,33.6228734,-112.3319654,AZ,El Mirage
+50,Pizza Pizza,43.818136,-79.3050725,ON,Scarborough
+51,Domino's Pizza,33.4537442,-111.683725,AZ,Mesa
+52,Pizza Hut,36.159444,-115.251164,NV,Las Vegas
+53,Boston Pizza,43.7579004,-79.4659499,ON,North York
+54,Boston Pizza,51.0173083198,-114.1623957464,AB,Calgary
+55,Pizza Hut,33.4568736,-112.3933832,AZ,Goodyear
+56,Domino's Pizza,43.6509146,-79.4394628,ON,Toronto
+57,Domino's Pizza,36.1916690719,-115.3068856471,NV,Las Vegas
+58,Pizza Nova,43.775182,-79.273554,ON,Scarborough
+59,Marco's Pizza,41.4657893,-81.5063487,OH,Beachwood
+60,Pizza Hut,41.412078,-81.603122,OH,Cleveland
+61,Pizza Hut,40.3821848,-79.9046134,PA,Munhall
+62,Domino's Pizza,33.5401686,-112.1338888,AZ,Phoenix
+63,Pizza Nova,43.9899026,-79.4644997,ON,Aurora
+64,Hungry Howie's Pizza,33.6249506,-111.9759423,AZ,Scottsdale
+65,Papa Murphy's,35.4761288,-80.8899692,NC,Cornelius
+66,Domino's Pizza,45.4947648,-73.574378,QC,Montréal
+67,Pizza Hut,33.5805437923,-112.2557231592,AZ,Peoria
+68,Little Caesars Pizza,33.482016652,-112.0132941711,AZ,Phoenix
+69,Domino's Pizza,41.3109346,-81.8357024,OH,Strongsville
+70,Papa Murphy's,33.3107142143,-111.7719693482,AZ,Gilbert
+71,Little Caesars Pizza,41.3593115,-81.6862887,OH,Parma
+72,Papa John's Pizza,43.654809815,-79.416045472,ON,Toronto
+73,Pizza Hut,36.1362575,-115.1512526,NV,Las Vegas
+74,Little Caesars Pizza,40.3974544,-80.0852973,PA,Carnegie
+75,Hungry Howie's Pizza,33.421963,-112.2910862,AZ,Avondale
+76,Pizza Hut,45.5132734,-73.6758868,QC,De l'Eglise
+77,Domino's Pizza,40.3492497,-79.8913423,PA,Dravosburg
+78,Papa Murphy's,33.3638067151,-111.6556962579,AZ,Mesa
+79,Pizza Hut,36.230724,-115.162672,NV,North Las Vegas
+80,Marco's Pizza,41.389054,-81.7622506,OH,Cleveland
+81,Pizza Hut,36.0709692414,-115.2984465659,NV,Las Vegas
+82,Pizza Pizza,43.6546232,-79.4593817,ON,Toronto
+83,Pizza Pizza,43.5988243,-79.7118024,ON,Mississauga
+84,Boston Pizza,50.9784488,-114.0150795,AB,Calgary
+85,Marco's Pizza,35.22574,-81.133624,NC,Gastonia
+86,Pizza Pizza,43.7639846802,-79.3997650146,ON,Toronto
+87,Boston Pizza,51.0410254,-114.1364277,AB,Calgary
+88,Little Caesars Pizza,36.0125444018,-115.1562697068,NV,Las Vegas
+89,Domino's Pizza,43.0735188,-89.3928866,WI,Madison
+90,Marco's Pizza,33.6393909,-112.1738684,AZ,Glendale
+91,Pizza Pizza,43.6079011,-79.6176517,ON,Mississauga
+92,Little Caesars Pizza,36.2180235534,-115.1595860908,NV,N. Las Vegas
+93,Papa Murphy's,36.2842832,-115.1787004,NV,North Las Vegas
+94,Pizza Hut,43.0845849,-89.29958,WI,Madison
+95,Pizza Hut,41.083337,-81.5795114,OH,Akron
+96,Domino's Pizza,33.466386,-112.167899,AZ,Phoenix
+97,Papa Murphy's,33.6671314,-112.1870865,AZ,Glendale
+98,Papa Murphy's,33.4503917949,-112.3938827057,AZ,Goodyear
+99,Papa Murphy's,36.3013607105,-115.2821881441,NV,Las Vegas
+100,Papa John's Pizza,33.4799101,-112.0779712,AZ,Phoenix
+101,Boston Pizza,43.5966675,-79.6424333,ON,Mississauga
+102,Domino's Pizza,41.127474,-81.609428,OH,Fairlawn
+103,Boston Pizza,50.961760366,-114.1215700813,AB,Calgary
+104,Domino's Pizza,43.6061904,-79.6914718,ON,Mississauga
+105,Little Caesars Pizza,33.3789234,-112.1665409,AZ,Phoenix
+106,Pizza Hut,36.0294276103,-115.0859494789,NV,Henderson
+107,Papa John's Pizza,33.395649924,-112.0737399906,AZ,Phoenix
+108,Papa Murphy's,36.003993,-115.0834834,NV,Henderson
+109,Hungry Howie's Pizza,33.4795736441,-111.9816427238,AZ,Phoenix
+110,Domino's Pizza,40.127859,-88.274883,IL,Champaign
+111,Little Caesars Pizza,36.208962,-115.108677,NV,North Las Vegas
+112,Boston Pizza,51.2032209,-113.9930715,AB,Rocky View
+113,Pizza Hut,36.0414988022,-115.1531707878,NV,Las Vegas
+114,Pizza Hut,33.4220352,-112.2721655,AZ,Tolleson
+115,Little Caesars Pizza,36.2190181,-115.2762574,NV,Las Vegas
+116,Little Caesars Pizza,33.384321121,-112.0728831809,AZ,Phoenix
+117,Pizza Hut,41.4953121,-81.9876543,OH,Avon Lake
+118,Papa Murphy's,36.2777302,-115.1163292,NV,North Las Vegas
+119,Little Caesars Pizza,33.3056349,-111.720437,AZ,Gilbert
+120,Papa Murphy's,33.3939206909,-111.9405783699,AZ,Tempe
+121,Pizza Pizza,43.6709952312,-79.3282520771,ON,Toronto
+122,Little Caesars Pizza,33.5081735,-112.0947772,AZ,Phoenix
+123,Domino's Pizza,41.4633968,-81.0930288,OH,Middlefield
+124,Little Caesars Pizza,35.9991237,-115.1039473,NV,Henderson
+125,Hungry Howie's Pizza,33.2937263,-111.7218586,AZ,Gilbert
+126,Pizza Hut,43.7109719,-79.2908941141,ON,Scarborough
+127,Papa Murphy's,35.0355952,-80.8044731,NC,Charlotte
+128,Domino's Pizza,33.596049607,-112.2189349615,AZ,Peoria
+129,Little Caesars Pizza,36.0408717745,-115.1015072121,NV,Henderson
+130,Little Caesars Pizza,36.2412164566,-115.0779131743,NV,Las Vegas
+131,Marco's Pizza,41.4185601,-82.1288178,OH,Lorain
+132,Pizza Hut,43.7943731,-79.353754,ON,North York
+133,Papa John's Pizza,33.4172963,-111.7355052,AZ,Mesa
+134,Papa Murphy's,43.0177969,-89.4233931,WI,Fitchburg
+135,Pizza Hut,41.2438201,-81.3450765,OH,Streetsboro
+136,Domino's Pizza,41.384607,-81.439568,OH,Solon
+137,Pizza Hut,33.4145121,-111.8720823,AZ,Mesa
+138,Pizza Hut,36.094673,-115.208822,NV,Las Vegas
+139,Boston Pizza,45.560628,-73.741411,QC,Laval
+140,Pizza Hut,33.5227229,-112.0479103,AZ,Phoenix
+141,Little Caesars Pizza,35.2122069,-80.6904682,NC,Charlotte
+142,Pizza Hut,41.4253019,-82.0765044,OH,Elyria
+143,Pizza Hut,35.4961609,-80.6283339,NC,Kannapolis
+144,Pizza Hut,36.0315955637,-114.9700385535,NV,Henderson
+145,Papa John's Pizza,33.611668,-111.927589,AZ,Scottsdale
+146,Pizza Hut,41.7011604584,-81.3773120356,OH,Mentor
+147,Pizza Pizza,43.570217,-79.566431,ON,Mississauga
+148,Pizza Hut,35.118784,-81.0855811,SC,Lake Wylie
+149,Marco's Pizza,41.464121,-81.5596149,OH,Cleveland
+150,Domino's Pizza,43.1778773,-89.2398118,WI,Sun Prairie
+151,Domino's Pizza,33.4949799,-112.2234001,AZ,Phoenix
+152,Marco's Pizza,41.1418551,-81.8635223,OH,Medina
+153,Papa John's Pizza,35.029324,-80.850153,NC,Charlotte
+154,Marco's Pizza,41.5197741128,-81.4599117076,OH,Mayfield Heights
+155,Little Caesars Pizza,41.419001151,-81.7288836683,OH,Cleveland
+156,Little Caesars Pizza,36.1958296,-115.0627704,NV,Las Vegas
+157,Papa John's Pizza,35.1068061,-80.8068776,NC,Charlotte
+158,Papa Murphy's,43.0321886,-89.4980948,WI,Madison
+159,Boston Pizza,50.9612285,-114.0723083,AB,Calgary
+160,Little Caesars Pizza,36.0674907529,-115.0686471666,NV,Henderson
+161,Pizza Pizza,43.930132,-79.5185398,ON,King City
+162,Little Caesars Pizza,33.5389001,-112.136734,AZ,Phoenix
+163,Pizza Hut,33.609624,-112.1343297,AZ,Phoenix
+164,Domino's Pizza,36.0996688,-115.1014346,NV,Las Vegas
+165,Domino's Pizza,51.1116742,-114.0558965,AB,Calgary
+166,Pizza Pizza,45.513992,-73.682668,QC,Saint-Laurent
+167,Pizza Hut,43.0967051,-89.498271,WI,Middleton
+168,Pizza Hut,41.3121025,-81.8346574,OH,Strongsville
+169,Domino's Pizza,33.537015,-111.907282,AZ,Scottsdale
+170,Domino's Pizza,43.7048926,-79.2884998,ON,Toronto
+171,Pizza Hut,43.7562204,-79.5180336,ON,Toronto
+172,Papa Murphy's,36.0572545,-115.2784568,NV,Las Vegas
+173,Boston Pizza,43.6441392146,-79.3885531386,ON,Toronto
+174,Hungry Howie's Pizza,33.6528177,-112.3708835,AZ,Surprise
+175,Little Caesars Pizza,36.1585364,-115.2020084,NV,Las Vegas
+176,Pizza Hut,33.407151,-111.7744342,AZ,Mesa
+177,Pizza Hut,40.437384,-79.787026,PA,Monroeville
+178,Domino's Pizza,43.5695571,-79.5669729,ON,Mississauga
+179,Pizza Hut,35.146999,-80.80925,NC,Charlotte
+180,Little Caesars Pizza,33.4521399,-112.3597538,AZ,Goodyear
+181,Papa John's Pizza,43.1008373163,-89.3489094618,WI,Madison
+182,Papa John's Pizza,33.4503331,-112.3470489,AZ,Goodyear
+183,Boston Pizza,43.6788377,-79.7201374,ON,Brampton
+184,Pizza Hut,33.6702268,-112.1181065,AZ,Phoenix
+185,Marco's Pizza,33.6086264004,-112.3605310171,AZ,Surprise
+186,Pizza Pizza,43.841217,-79.303936,ON,Markham
+187,Pizza Hut,45.4402245,-73.6216421,QC,Lasalle
+188,Pizza Hut,51.1603304,-113.9597577,AB,Calgary
+189,Pizza Hut,33.4145833,-111.628582,AZ,Mesa
+190,Pizza Hut,43.8807827945,-79.3932664767,ON,Richmond Hill
+191,Pizza Pizza,45.5202136553,-73.5974769773,QC,Montréal
+192,Papa John's Pizza,40.1131849,-88.2837312,IL,Champaign
+193,Hungry Howie's Pizza,41.4179509,-81.7563041,OH,Parma
+194,Pizza Hut,34.9245482185,-80.7449110597,NC,Waxhaw
+195,Pizza Hut,33.4662216,-111.912097,AZ,Scottsdale
+196,Pizza Hut,42.917529,-89.372314,WI,Oregon
+197,Domino's Pizza,36.1287148858,-115.093188715,NV,Las Vegas
+198,Pizza Hut,33.6402101,-112.421825,AZ,Surprise
+199,Pizza Hut,45.4910947,-73.648856,QC,Montréal
+200,Pizza Hut,33.6706202,-112.2016265,AZ,Glendale
+201,Pizza Hut,33.6092867,-111.7292103,AZ,Fountain Hills
+202,Pizza Hut,35.1875233,-80.6874494,NC,Mint Hill
+203,Pizza Nova,44.0184158,-79.4476687,ON,Aurora
+204,Boston Pizza,51.048566,-113.82647,AB,Chestermere
+205,Papa John's Pizza,33.3798264,-111.680185,AZ,Mesa
+206,Pizza Hut,51.1547861,-114.1057621,AB,Calgary
+207,Marco's Pizza,35.0120187,-80.8514743,SC,Indian Land
+208,Pizza Pizza,43.6831351,-79.4199253,ON,Toronto
+209,Pizza Pizza,45.5228886,-73.5519023,QC,Montréal
+210,Papa Murphy's,35.0303097,-80.8535521,NC,Charlotte
+211,Pizza Pizza,43.6760141,-79.3589764,ON,Toronto
+212,Pizza Nova,43.779366,-79.364287,ON,Toronto
+213,Little Caesars Pizza,43.1020421,-89.3446534,WI,Madison
+214,Pizza Hut,43.707001,-79.268149,ON,Scarborough
+215,Boston Pizza,51.0809533,-113.9963132,AB,Calgary
+216,Pizza Hut,43.5858423,-79.6985308,ON,Mississauga
+217,Domino's Pizza,43.6524735178,-79.374957718,ON,Toronto
+218,Little Caesars Pizza,43.6656166,-79.484727,ON,York
+219,Domino's Pizza,41.3649902,-81.6856414,OH,Parma
+220,Domino's Pizza,33.4054083,-111.8750455,AZ,Mesa
+221,Pizza Hut,41.5575249,-81.5511583,OH,Cleveland
+222,Little Caesars Pizza,33.4663498,-111.9848827,AZ,Phoenix
+223,Domino's Pizza,36.2982003,-115.2698157,NV,Las Vegas
+224,Papa John's Pizza,36.2613789,-115.1553345,NV,Las Vegas
+225,Pizza Hut,35.0054658,-80.5583195,NC,Monroe
+226,Pizza Nova,43.6214629199,-79.7426165225,ON,Mississauga
+227,Pizza Hut,33.464825,-112.152306,AZ,Phoenix
+228,Pizza Hut,36.1000670645,-115.1382271573,NV,Las Vegas
+229,Pizza Hut,35.0530905,-80.8471633,NC,Charlotte
+230,Papa John's Pizza,43.072826,-89.394966,WI,Madison
+231,Little Caesars Pizza,33.2319416609,-111.7212181533,AZ,Gilbert
+232,Hungry Howie's Pizza,33.492897,-112.333147,AZ,Avondale
+233,Papa John's Pizza,36.201019,-115.280644,NV,Las Vegas
+234,Pizza Hut,41.4186021,-82.2077892,OH,Lorain
+235,Pizza Hut,51.0457013148,-114.0573661958,AB,Calgary
+236,Pizza Hut,35.2070881,-80.8351947,NC,Charlotte
+237,Domino's Pizza,33.394052,-111.822347,AZ,Mesa
+238,Pizza Hut,41.3200649248,-81.3480358225,OH,Aurora
+239,Little Caesars Pizza,43.5916469,-79.5757803,ON,Mississauga
+240,Papa John's Pizza,35.0529363,-80.7696899,NC,Charlotte
+241,Domino's Pizza,43.7132519,-79.3670947,ON,Toronto
+242,Pizza Hut,43.7445898,-79.6964151,ON,Brampton
+243,Domino's Pizza,43.6554468,-79.365425,ON,Toronto
+244,Little Caesars Pizza,35.2571166,-80.7787224,NC,Charlotte
+245,Pizza Pizza,43.640257,-79.3817311,ON,Toronto
+246,Pizza Nova,43.779639,-79.4152174,ON,North York
+247,Papa John's Pizza,33.473213,-112.391764,AZ,Goodyear
+248,Hungry Howie's Pizza,33.4808391,-111.9099763,AZ,Scottsdale
+249,Pizza Pizza,43.6577514,-79.3817333,ON,Toronto
+250,Boston Pizza,43.6888206,-79.5858219,ON,Etobicoke
+251,Pizza Hut,33.4557268,-112.0728342,AZ,Phoenix
+252,Pizza Hut,43.84245,-79.02799,ON,Ajax
+253,Pizza Hut,40.4773799,-79.7875682,PA,Penn Hills
+254,Papa John's Pizza,41.387005,-81.441554,OH,Solon
+255,Pizza Pizza,43.669131,-79.335314,ON,Toronto
+256,Little Caesars Pizza,33.5670515,-112.0733931,AZ,Phoenix
+257,Little Caesars Pizza,36.1149933959,-115.0991731649,NV,Las Vegas
+258,Papa Murphy's,33.3940352,-111.7542464,AZ,Mesa
+259,Boston Pizza,51.1545495774,-114.067274343,AB,Calgary
+260,Pizza Hut,36.130475168,-115.1093912609,NV,Las Vegas
+261,Pizza Hut,43.714239,-79.5687289,ON,Etobicoke
+262,Domino's Pizza,40.4134701,-79.8458021,PA,Pittsburgh
+263,Domino's Pizza,33.4808122,-112.2028442,AZ,Phoenix
+264,Pizza Hut,43.5757177468,-79.6554086787,ON,Mississauga
+265,Pizza Pizza,43.7084148,-79.4758842,ON,Toronto
+266,Little Caesars Pizza,35.2246841,-80.8938117,NC,Charlotte
+267,Pizza Hut,35.2142,-80.782256,NC,Charlotte
+268,Little Caesars Pizza,33.7132887,-112.1397613,AZ,Glendale
+269,Pizza Hut,33.799076,-112.131283,AZ,Phoenix
+270,Papa John's Pizza,36.1658726707,-115.0625643659,NV,Las Vegas
+271,Pizza Hut,40.4563367,-80.0071993,PA,Pittsburgh
+272,Domino's Pizza,41.31579,-81.652973,OH,Broadview Heights
+273,Papa John's Pizza,40.4536377,-79.9469879,PA,Pittsburgh
+274,Boston Pizza,45.56071,-73.745351,QC,Laval
+275,Pizza Hut,33.4079719,-111.9104912,AZ,Tempe
+276,Pizza Hut,33.480713,-112.0038326,AZ,Phoenix
+277,Pizza Nova,43.8099849,-79.4594055,ON,Vaughan
+278,Hungry Howie's Pizza,33.3771752,-112.045629,AZ,Phoenix
+279,Domino's Pizza,33.6400807,-112.0101894,AZ,Phoenix
+280,Pizza Nova,43.7071105,-79.7874934,ON,Brampton
+281,Boston Pizza,51.0969303,-113.9561983,AB,Calgary
+282,Papa John's Pizza,41.2448108,-81.3454824,OH,Streetsboro
+283,Pizza Hut,41.5812796,-81.2166404,OH,Chardon
+284,Pizza Pizza,43.7554125,-79.4391678,ON,North York
+285,Papa Murphy's,33.6009748,-112.287967,AZ,Sun City
+286,Little Caesars Pizza,33.3784758,-112.0286808,AZ,Phoenix
+287,Pizza Hut,43.6676492705,-79.7334285376,ON,Brampton
+288,Domino's Pizza,33.5105145,-111.9111238,AZ,Scottsdale
+289,Domino's Pizza,41.1407614,-81.3564795,OH,Kent
+290,Hungry Howie's Pizza,41.1394444,-81.508925,OH,Cuyahoga Falls
+291,Pizza Nova,43.6665095828,-79.3164825439,ON,Toronto
+292,Pizza Hut,43.0610545,-89.5121797,WI,Madison
+293,Papa John's Pizza,33.6123128188,-111.9944543314,AZ,Phoenix
+294,Marco's Pizza,36.014137,-115.15498,NV,Las Vegas
+295,Little Caesars Pizza,33.4071933,-111.927283,AZ,Tempe
+296,Papa John's Pizza,36.167218,-115.259651,NV,Las Vegas
+297,Pizza Pizza,43.8694259,-79.3614299,ON,Markham
+298,Boston Pizza,50.9874608354,-114.0454114165,AB,Calgary
+299,Pizza Hut,43.8148423,-79.2923535,ON,Scarborough
+300,Pizza Hut,36.0990357434,-115.1748771965,NV,Las Vegas
+301,Pizza Hut,43.8206872,-79.3883096,ON,Thornhill
+302,Little Caesars Pizza,33.3919982,-111.8238823,AZ,Mesa
+303,Little Caesars Pizza,43.725695,-79.8155369,ON,Brampton
+304,Little Caesars Pizza,36.1209019,-115.138783,NV,Las Vegas
+305,Little Caesars Pizza,33.4954215852,-112.2357978434,AZ,Phoenix
+306,Hungry Howie's Pizza,35.1408179,-80.7380644,NC,Charlotte
+307,Domino's Pizza,51.0348223,-114.1914922,AB,Calgary
+308,Pizza Pizza,43.6589038,-79.4393633,ON,Toronto
+309,Pizza Hut,41.4797181,-81.8392665,OH,Rocky River
+310,Little Caesars Pizza,33.3951,-111.754297,AZ,Mesa
+311,Domino's Pizza,41.3938627,-82.0080591,OH,North Ridgeville
+312,Papa John's Pizza,33.3576587,-112.4285876,AZ,Goodyear
+313,Papa John's Pizza,33.6393162,-112.0653008,AZ,Phoenix
+314,Little Caesars Pizza,45.4811736,-73.8420066,QC,Dollard-Des-Ormeaux
+315,Little Caesars Pizza,41.1298246,-81.5087648,OH,Cuyahoga Falls
+316,Papa Murphy's,35.4060152,-80.8650936,NC,Huntersville
+317,Pizza Hut,33.2623743,-111.859793,AZ,Chandler
+318,Pizza Nova,43.6647883,-79.3807374,ON,Toronto
+319,Pizza Nova,43.7507415873,-79.4564428926,ON,Toronto
+320,Little Caesars Pizza,33.3632376,-111.926903,AZ,Phoenix
+321,Marco's Pizza,41.3217763,-81.8355909,OH,Strongsville
+322,Marco's Pizza,41.4088952,-81.9765795,OH,North Ridgeville
+323,Domino's Pizza,40.3040827569,-88.1591145667,IL,Rantoul
+324,Domino's Pizza,43.4848765933,-79.7146423906,ON,Oakville
+325,Papa John's Pizza,51.1482512,-114.072164,AB,Calgary
+326,Papa John's Pizza,33.5013170365,-111.9844446455,AZ,Phoenix
+327,Pizza Hut,41.5389777,-81.4961621,OH,Richmond Heights
+328,Pizza Hut,33.489344,-111.927972,AZ,Scottsdale
+329,Pizza Nova,43.6653215,-79.3871216,ON,Toronto
+330,Little Caesars Pizza,36.1008769,-115.2445968,NV,Las Vegas
+331,Papa John's Pizza,51.076287,-113.9900978,AB,Calgary
+332,Pizza Hut,43.6573124,-79.3741798,ON,Toronto
+333,Pizza Hut,41.3142574,-81.516831,OH,Macedonia
+334,Marco's Pizza,35.3154399759,-80.6743008474,NC,Harrisburg
+335,Pizza Hut,36.2190682,-115.2588929,NV,Las Vegas
+336,Domino's Pizza,41.7157319,-81.2425123,OH,Painesville
+337,Papa John's Pizza,33.639152,-112.063087,AZ,Phoenix
+338,Domino's Pizza,43.8782876,-79.2381104,ON,Markham
+339,Pizza Pizza,43.7457897,-79.4874779,ON,North York
+340,Domino's Pizza,41.3659982,-81.8534081,OH,Berea
+341,Pizza Pizza,43.7943558,-79.3298693,ON,Scarborough
+342,Pizza Pizza,43.6711886,-79.3874048,ON,Toronto
+343,Pizza Pizza,43.7161407,-79.6343324,ON,Malton
+344,Papa John's Pizza,33.3223964,-111.8604916,AZ,Chandler
+345,Hungry Howie's Pizza,33.416182504,-111.9222192529,AZ,Tempe
+346,Pizza Hut,36.1452874912,-115.2950038782,NV,Las Vegas
+347,Domino's Pizza,45.5780612,-73.6795914,QC,Laval
+348,Papa John's Pizza,33.4329421387,-111.843711,AZ,Mesa
+349,Little Caesars Pizza,33.4377294,-112.4101009,AZ,Goodyear
+350,Pizza Pizza,43.8236508,-79.4256952,ON,Thornhill
+351,Pizza Hut,41.1539224,-81.862325,OH,Medina
+352,Little Caesars Pizza,43.6661412,-79.7375339,ON,Brampton
+353,Pizza Nova,43.6450491,-79.7541452,ON,Brampton
+354,Papa Murphy's,36.0551922,-115.2434261,NV,Las Vegas
+355,Pizza Hut,41.461719,-81.485245,OH,Beachwood
+356,Pizza Hut,41.4312287,-81.7341243,OH,Brooklyn
+357,Papa Murphy's,35.2966598,-80.737783,NC,Charlotte
+358,Pizza Hut,41.43349953,-81.7924176157,OH,Cleveland
+359,Little Caesars Pizza,34.9619868,-81.00276,SC,Rock Hill
+360,Papa Murphy's,42.9198807,-89.3773111,WI,Oregon
+361,Little Caesars Pizza,50.983458,-114.014459,AB,Calgary
+362,Papa John's Pizza,41.2382926637,-81.4493229585,OH,Hudson
+363,Papa John's Pizza,33.797531,-111.976648,AZ,Cave Creek
+364,Pizza Pizza,43.6494848,-79.3710947,ON,Toronto
+365,Domino's Pizza,36.0340897,-115.2074639,NV,Las Vegas
+366,Pizza Nova,43.7725166,-79.7029863,ON,Brampton
+367,Pizza Hut,33.3938784,-111.8413481,AZ,Mesa
+368,Pizza Nova,43.757861,-79.4097018,ON,North York
+369,Boston Pizza,45.45398,-73.465045,QC,Brossard
+370,Pizza Hut,51.073674,-114.16481,AB,Calgary
+371,Papa Murphy's,36.1595573,-115.2451796,NV,Las Vegas
+372,Pizza Hut,40.354929,-79.6516755,PA,Harrison City
+373,Hungry Howie's Pizza,35.333478,-80.796171,NC,Charlotte
+374,Little Caesars Pizza,51.2698363248,-113.9881324768,AB,Airdrie
+375,Boston Pizza,43.6593968,-79.3818779,ON,Toronto
+376,Marco's Pizza,43.015986,-89.499539,WI,Madison
+377,Pizza Nova,43.7509678,-79.5428724,ON,Toronto
+378,Boston Pizza,43.8624934341,-79.0160429373,ON,Ajax
+379,Papa Murphy's,33.5250123168,-112.1311752603,AZ,Phoenix
+380,Pizza Pizza,43.7684555,-79.2686172,ON,Scarborough
+381,Pizza Hut,50.9621535,-114.0860011,AB,Calgary
+382,Domino's Pizza,33.3925091,-112.0693643,AZ,Phoenix
+383,Papa Murphy's,43.0843504,-89.2998225,WI,Madison
+384,Little Caesars Pizza,43.7129523934,-79.7461077198,ON,Brampton
+385,Papa John's Pizza,33.6520764,-112.2338377,AZ,Glendale
+386,Boston Pizza,43.738687,-79.70276,ON,Brampton
+387,Pizza Hut,43.8662182,-79.2881832,ON,Markham
+388,Domino's Pizza,33.334695,-111.842345,AZ,Chandler
+389,Papa Murphy's,33.6699779,-111.904461,AZ,Scottsdale
+390,Pizza Hut,36.1971668974,-115.2242623327,NV,Las Vegas
+391,Pizza Hut,35.4433339,-80.9963048,NC,Denver
+392,Boston Pizza,51.1255264,-114.0726564,AB,Calgary
+393,Domino's Pizza,43.5804908,-79.6138973,ON,Mississauga
+394,Marco's Pizza,41.4396752,-81.7363316,OH,Cleveland
+395,Pizza Hut,36.1941838,-115.025515,NV,Las Vegas
+396,Boston Pizza,43.5516756,-79.7154919,ON,Mississauga
+397,Pizza Hut,51.1384031,-114.1595793,AB,Calgary
+398,Pizza Hut,35.4800817,-80.8911735,NC,Cornelius
+399,Pizza Pizza,43.6563207,-79.3773755,ON,Toronto
+400,Domino's Pizza,33.450757938,-112.4218724337,AZ,Goodyear
+401,Pizza Hut,33.333887,-111.7549916,AZ,Gilbert
+402,Little Caesars Pizza,43.6380507,-79.7173764,ON,Mississauga
+403,Little Caesars Pizza,33.5082851714,-112.3558014259,AZ,Litchfield Park
+404,Pizza Nova,43.8355856,-79.253969,ON,Toronto
+405,Papa John's Pizza,35.2890019,-81.1879621,NC,Gastonia
+406,Papa John's Pizza,35.2282399,-80.6977587,NC,Charlotte
+407,Pizza Pizza,43.9707904,-79.2505903,ON,Stouffville
+408,Pizza Hut,41.4834915,-81.7023837,OH,Cleveland
+409,Pizza Pizza,43.4658322,-79.743164,ON,Oakville
+410,Pizza Pizza,43.7562587,-79.5154267,ON,Toronto
+411,Papa John's Pizza,36.0995506,-115.3027463,NV,Las Vegas
+412,Little Caesars Pizza,41.4552726,-81.7867259,OH,Cleveland
+413,Pizza Pizza,43.7975966,-79.4707915,ON,Thornhill
+414,Little Caesars Pizza,33.3927901,-112.0972393,AZ,Phoenix
+415,Pizza Hut,43.7573348,-79.234674,ON,Scarborough
+416,Papa John's Pizza,35.1731371,-80.8764557,NC,Charlotte
+417,Pizza Pizza,43.7624173,-79.4115237,ON,North York
+418,Pizza Hut,41.6248667,-81.4385172,OH,Willoughby
+419,Domino's Pizza,41.2379709,-81.825664,OH,Brunswick
+420,Pizza Hut,43.0144898,-89.4274581,WI,Madison
+421,Pizza Pizza,43.5591152,-79.7447193,ON,Mississauga
+422,Boston Pizza,51.2699538459,-114.0036139528,AB,Airdrie
+423,Little Caesars Pizza,41.502411,-81.539161,OH,South Euclid
+424,Pizza Pizza,43.7346401486,-79.3462056748,ON,Toronto
+425,Pizza Nova,43.665473,-79.490748,ON,Toronto
+426,Pizza Hut,35.4285728,-80.5994505,NC,Concord
+427,Domino's Pizza,36.277855,-115.288323,NV,Las Vegas
+428,Domino's Pizza,33.261255,-111.856527,AZ,Chandler
+429,Domino's Pizza,33.6832944,-112.2370545,AZ,Peoria
+430,Little Caesars Pizza,50.9607187,-114.1052556,AB,Calgary
+431,Pizza Nova,43.5748350617,-79.7392373377,ON,Mississauga
+432,Pizza Pizza,43.6098325,-79.5839821,ON,Mississauga
+433,Pizza Hut,33.5364051,-112.3414375,AZ,Glendale
+434,Pizza Hut,45.581582,-73.706875,QC,Laval
+435,Hungry Howie's Pizza,33.3046248,-111.982272,AZ,Phoenix
+436,Pizza Hut,33.5097128,-112.136571,AZ,Phoenix
+437,Pizza Nova,43.64946,-79.365449,ON,Toronto
+438,Pizza Nova,43.8465781,-79.4600501,ON,Vaughan
+439,Little Caesars Pizza,36.1010948,-115.0633264,NV,Las Vegas
+440,Pizza Hut,50.9329253,-113.9693875,AB,Calgary
+441,Boston Pizza,43.6382506,-79.6229704,ON,Mississauga
+442,Pizza Hut,45.5723021,-73.5868622,QC,Saint-Leonard
+443,Pizza Hut,33.3480749,-111.8585819,AZ,Chandler
+444,Pizza Pizza,43.6679839,-79.3698118,ON,Toronto
+445,Pizza Hut,43.5270706364,-79.6502489065,ON,Mississauga
+446,Papa John's Pizza,33.4954365,-112.0197856,AZ,Phoenix
+447,Papa John's Pizza,41.7155807,-81.2427478,OH,Painesville
+448,Hungry Howie's Pizza,33.6084197,-112.2385364,AZ,Peoria
+449,Domino's Pizza,33.40849,-111.7887844,AZ,Mesa
+450,Domino's Pizza,33.4344308,-112.3039232,AZ,Avondale
+451,Pizza Hut,41.484475009,-81.921149902,OH,Bay Village
+452,Domino's Pizza,36.143852316,-115.1351314,NV,Las Vegas
+453,Pizza Pizza,43.6470449718,-79.4041427663,ON,Toronto
+454,Pizza Nova,43.8306916,-79.534144,ON,Concord
+455,Boston Pizza,43.78923,-79.53222,ON,Vaughan
+456,Papa John's Pizza,33.507694,-112.238262,AZ,Phoenix
+457,Pizza Pizza,43.6054119,-79.5468258,ON,Etobicoke
+458,Papa Murphy's,36.1008343305,-115.3146554364,NV,Las Vegas
+459,Papa John's Pizza,41.7000794,-81.3770392,OH,Mentor
+460,Little Caesars Pizza,35.1514326632,-80.8754379341,NC,Charlotte
+461,Domino's Pizza,33.6535156,-112.0640113,AZ,Phoenix
+462,Domino's Pizza,43.6653857,-79.4705236,ON,Toronto
+463,Pizza Hut,36.10259,-115.136559,NV,Las Vegas
+464,Pizza Hut,35.9992598204,-115.1074552376,NV,Henderson
+465,Papa John's Pizza,40.3665776,-79.9814707,PA,Pittsburgh
+466,Papa John's Pizza,33.5904238,-111.8355724,AZ,Scottsdale
+467,Little Caesars Pizza,33.3796705203,-111.9773966151,AZ,Tempe
+468,Domino's Pizza,45.52068,-73.627418,QC,Mont-Royal
+469,Boston Pizza,43.7290931,-79.288601,ON,Scarborough
+470,Papa John's Pizza,36.1584565,-115.317141,NV,Las Vegas
+471,Domino's Pizza,33.4795033,-112.0732998,AZ,Phoenix
+472,Papa John's Pizza,34.977498,-81.026741,SC,Rock Hill
+473,Pizza Hut,33.58248,-112.205558,AZ,Peoria
+474,Domino's Pizza,33.5533448,-112.1692338,AZ,Glendale
+475,Domino's Pizza,33.6978864,-111.8884967,AZ,Scottsdale
+476,Domino's Pizza,41.1050226,-81.4463744,OH,Tallmadge
+477,Pizza Hut,33.4923751,-112.2893717,AZ,Avondale
+478,Domino's Pizza,45.4794598,-73.5809779,QC,Montréal
+479,Papa Murphy's,35.0783713,-80.6537391,NC,Indian Trail
+480,Papa John's Pizza,33.4657865,-111.6822267,AZ,Mesa
+481,Pizza Pizza,43.8595128,-79.4337047,ON,Richmond Hill
+482,Papa Murphy's,33.3204869,-111.9086147,AZ,Chandler
+483,Papa Murphy's,33.4684504957,-112.3404414242,AZ,Avondale
+484,Papa John's Pizza,36.2393708195,-115.2024694295,NV,North Las Vegas
+485,Domino's Pizza,33.4078922,-111.9539189,AZ,Tempe
+486,Pizza Nova,43.8569898255,-79.4099188279,ON,Richmond Hill
+487,Pizza Hut,43.617294612,-79.5383780205,ON,Toronto
+488,Domino's Pizza,40.516043,-80.038569,PA,Pittsburgh
+489,Domino's Pizza,41.6155583,-81.5151222,OH,Euclid
+490,Pizza Hut,41.402909,-81.690431,OH,Parma
+491,Pizza Hut,40.339938874,-80.0250088153,PA,Bethel Park
+492,Papa John's Pizza,50.912807,-113.950007,AB,Calgary
+493,Papa Murphy's,33.594474,-112.21943,AZ,Peoria
+494,Pizza Pizza,43.760744,-79.728822,ON,Brampton
+495,Pizza Hut,43.764524,-79.412161,ON,Toronto
+496,Pizza Hut,33.6383687,-112.184355,AZ,Glendale
+497,Little Caesars Pizza,33.6230548882,-112.33975752,AZ,El Mirage
+498,Pizza Hut,36.2153706,-115.0982814,NV,Las Vegas
+499,Boston Pizza,45.4486301,-73.6087194,QC,Lasalle
+500,Domino's Pizza,43.6867619,-79.4388126,ON,Toronto
+501,Pizza Hut,50.915053,-114.065873,AB,Calgary
+502,Pizza Pizza,43.7980324,-79.2728278,ON,Scarborough
+503,Domino's Pizza,51.0412737,-114.0813745,AB,Calgary
+504,Pizza Hut,43.7219236,-79.3034216,ON,North York
+505,Domino's Pizza,33.5884153,-111.8347423,AZ,Scottsdale
+506,Boston Pizza,45.6444107,-73.8363837,QC,Sainte-Thérèse
+507,Pizza Pizza,43.6469736,-79.404198,ON,Toronto
+508,Domino's Pizza,36.0677217,-115.0366746,NV,Henderson
+509,Pizza Hut,43.9744853,-79.2313625,ON,Stouffville
+510,Domino's Pizza,33.3374683,-111.994494,AZ,Phoenix
+511,Domino's Pizza,40.0972527,-88.2768244,IL,Champaign
+512,Pizza Pizza,43.6893066,-79.2955409,ON,Toronto
+513,Pizza Pizza,44.0158793,-79.4475271,ON,Aurora
+514,Pizza Hut,33.6988387,-111.8881363,AZ,Scottsdale
+515,Domino's Pizza,43.6796679,-79.3395009,ON,Toronto
+516,Little Caesars Pizza,36.2600263994,-115.1550631483,NV,Las Vegas
+517,Pizza Hut,36.099317,-115.1138112657,NV,Las Vegas
+518,Papa John's Pizza,41.4666649,-81.9230022,OH,Westlake
+519,Papa John's Pizza,51.0375541,-114.0747367,AB,Calgary
+520,Marco's Pizza,41.3138001,-81.5061246,OH,Macedonia
+521,Little Caesars Pizza,33.4781081731,-112.2904260908,AZ,Avondale
+522,Pizza Hut,41.236659,-81.819618,OH,Brunswick
+523,Pizza Hut,33.4494969934,-112.3427564338,AZ,Avondale
+524,Pizza Hut,35.147999,-80.924835,NC,Charlotte
+525,Domino's Pizza,40.1104381,-88.2384162,IL,Champaign
+526,Domino's Pizza,43.0964256,-89.5006121,WI,Middleton
+527,Papa John's Pizza,51.0364729,-114.167857,AB,Calgary
+528,Marco's Pizza,41.4544134,-81.7922562,OH,Cleveland
+529,Pizza Pizza,43.7346401486,-79.3462056748,ON,Toronto
+530,Papa John's Pizza,36.1301338,-115.1412955,NV,Las Vegas
+531,Pizza Hut,41.4328201,-81.8821047,OH,North Olmsted
+532,Boston Pizza,43.8207250951,-79.3253723791,ON,Markham
+533,Pizza Hut,36.1439570392,-115.1824128628,NV,Las Vegas
+534,Hungry Howie's Pizza,33.5391062462,-112.217822111,AZ,Glendale
+535,Papa John's Pizza,43.095451,-89.495024,WI,Middleton
+536,Domino's Pizza,33.6405889,-112.134846,AZ,Phoenix
+537,Pizza Nova,43.7080052374,-79.4432153731,ON,Toronto
+538,Domino's Pizza,36.1962338,-115.1057054,NV,North Las Vegas
+539,Papa John's Pizza,41.4416461,-81.7227361,OH,Brooklyn
+540,Marco's Pizza,33.4240963216,-111.7196646064,AZ,Mesa
+541,Pizza Pizza,43.6134614,-79.646157,ON,Mississauga
+542,Boston Pizza,43.8476095,-79.375457,ON,Richmond Hill
+543,Boston Pizza,43.7757174,-79.2628222,ON,Scarborough
+544,Papa Murphy's,33.4170443549,-111.8739368396,AZ,Mesa
+545,Papa John's Pizza,41.425152,-81.896178,OH,North Olmsted
+546,Pizza Hut,33.5817549,-112.0084514,AZ,Phoenix
+547,Pizza Pizza,43.8417711,-79.0840136,ON,Pickering
+548,Papa John's Pizza,41.6249378,-81.4396178,OH,Willoughby
+549,Pizza Hut,43.607783,-79.649827,ON,Mississauga
+550,Domino's Pizza,44.0019263,-79.4560529,ON,Aurora
+551,Domino's Pizza,33.4954124,-112.0994869,AZ,Phoenix
+552,Papa John's Pizza,33.3202095032,-111.9279937744,AZ,Chandler
+553,Pizza Hut,43.6563311,-79.4353349,ON,Toronto
+554,Papa John's Pizza,35.2524515,-80.6574073,NC,Charlotte
+555,Domino's Pizza,45.5106415,-73.553346,QC,Montréal
+556,Domino's Pizza,41.3150936,-81.553914,OH,Sagamore Hills
+557,Papa Murphy's,33.6246505,-111.9443311,AZ,Scottsdale
+558,Pizza Nova,43.8383960233,-79.5598337357,ON,Vaughan
+559,Papa John's Pizza,33.4077786,-111.9468685,AZ,Tempe
+560,Pizza Hut,36.2630128,-115.1805607,NV,North Las Vegas
+561,Domino's Pizza,33.6130379613,-111.9771734987,AZ,Phoenix
+562,Boston Pizza,43.7620368,-79.4103214,ON,North York
+563,Pizza Hut,36.0567624,-115.0403667,NV,Henderson
+564,Domino's Pizza,36.0202205,-114.9621225,NV,Henderson
+565,Domino's Pizza,43.7071598119,-79.4426131668,ON,Toronto
+566,Pizza Hut,40.4161639976,-79.8484485489,PA,Forest Hills
+567,Domino's Pizza,43.6607492,-79.5113246,ON,Toronto
+568,Pizza Hut,41.4622446,-81.6434224,OH,Cleveland
+569,Pizza Hut,41.4833296,-81.7684265,OH,Cleveland
+570,Domino's Pizza,41.3863268,-81.76973,OH,Parma Heights
+571,Papa John's Pizza,33.3493441221,-111.7571623885,AZ,Gilbert
+572,Domino's Pizza,41.5054631553,-81.5368748456,OH,Cleveland
+573,Papa John's Pizza,35.3133291,-80.7431378,NC,Charlotte
+574,Little Caesars Pizza,33.422303,-112.2202854,AZ,Phoenix
+575,Domino's Pizza,33.5968525,-112.2718861,AZ,Sun City
+576,Pizza Hut,35.2465644,-80.7520571,NC,Charlotte
+577,Boston Pizza,51.1268739439,-114.1972803191,AB,Calgary
+578,Marco's Pizza,41.4656238,-82.1460657,OH,Lorain
+579,Little Caesars Pizza,50.9421633414,-114.0461515938,AB,Calgary
+580,Pizza Hut,40.070779165,-88.251749561,IL,Savoy
+581,Pizza Pizza,43.6588117,-79.3511769,ON,Toronto
+582,Pizza Hut,43.587256,-79.7411835,ON,Mississauga
+583,Little Caesars Pizza,36.1583654,-115.1260071,NV,Las Vegas
+584,Hungry Howie's Pizza,33.596948,-112.166664,AZ,Glendale
+585,Pizza Hut,33.6393810419,-112.352495081,AZ,Surprise
+586,Domino's Pizza,43.8528791837,-79.4315230648,ON,Richmond Hill
+587,Pizza Hut,35.2026783,-80.74028,NC,Charlotte
+588,Pizza Hut,33.5796175,-111.9276631,AZ,Scottsdale
+589,Pizza Pizza,43.7983618,-79.3184634,ON,Toronto
+590,Marco's Pizza,41.432007,-81.8829151,OH,North Olmsted
+591,Marco's Pizza,33.4575713,-112.3931507,AZ,Goodyear
+592,Papa John's Pizza,40.3095677,-88.1561669,IL,Rantoul
+593,Papa Murphy's,33.5675177,-112.1703705,AZ,Glendale
+594,Pizza Hut,35.2440913,-80.8919731,NC,Charlotte
+595,Papa John's Pizza,36.0196553,-115.2712159,NV,Las Vegas
+596,Pizza Pizza,43.6266432,-79.5024054,ON,Etobicoke
+597,Pizza Hut,51.0130857,-114.1399128,AB,Calgary
+598,Little Caesars Pizza,36.055015,-115.279266,NV,Las Vegas
+599,Marco's Pizza,41.493773,-82.016786,OH,Avon Lake
+600,Little Caesars Pizza,33.4940188506,-112.0462309197,AZ,Phoenix
+601,Pizza Pizza,43.6853887,-79.3129744,ON,Toronto
+602,Papa John's Pizza,34.9361157014,-80.8376204444,SC,Indian Land
+603,Boston Pizza,45.500843,-73.376099,QC,Saint-Bruno
+604,Domino's Pizza,50.9386093,-114.0837092,AB,Calgary
+605,Little Caesars Pizza,36.1592558,-115.0824743,NV,Las Vegas
+606,Boston Pizza,44.0936069363,-79.1319559515,ON,Uxbridge
+607,Domino's Pizza,36.1969834,-115.1803758,NV,North Las Vegas
+608,Domino's Pizza,36.0996457435,-115.2998998596,NV,Las Vegas
+609,Pizza Hut,33.3055517,-111.8744206,AZ,Chandler
+610,Boston Pizza,43.9161246,-78.9556644,ON,Whitby
+611,Papa Murphy's,43.0483845,-89.323659,WI,Monona
+612,Little Caesars Pizza,40.3941422,-80.0355641,PA,Pittsburgh
+613,Papa Murphy's,43.1743521,-89.2486834,WI,Sun Prairie
+614,Domino's Pizza,36.2399658,-115.2304525,NV,Las Vegas
+615,Pizza Hut,43.6708081,-79.29708,ON,Toronto
+616,Pizza Hut,35.0473602,-80.6465218,NC,Indian Trail
+617,Domino's Pizza,43.7662871,-79.2595984,ON,Scarborough
+618,Papa John's Pizza,35.979927,-115.100444,NV,Henderson
+619,Domino's Pizza,43.7639054,-79.3987605,ON,North York
+620,Pizza Hut,42.9187770175,-89.2378910613,WI,Stoughton
+621,Papa John's Pizza,43.77543,-79.1789256,ON,Toronto
+622,Pizza Hut,51.2916391,-114.0008072,AB,Airdrie
+623,Pizza Hut,40.4274142,-80.0530219,PA,Pittsburgh
+624,Pizza Nova,43.7627677917,-79.4914169312,ON,Toronto
+625,Pizza Hut,36.268688,-115.110862,NV,North Las Vegas
+626,Papa John's Pizza,34.954505,-80.7597407,NC,Waxhaw
+627,Papa Murphy's,43.0851811,-89.2777003,WI,Madison
+628,Pizza Hut,40.4538812,-79.949545,PA,Pittsburgh
+629,Pizza Pizza,43.6438459,-79.391824,ON,Toronto
+630,Pizza Nova,43.8870013882,-78.9042689279,ON,Whitby
+631,Domino's Pizza,40.4410921,-80.0691206,PA,Pittsburgh
+632,Papa Murphy's,33.3925994,-111.6838716,AZ,Mesa
+633,Domino's Pizza,36.1972759,-115.2231899,NV,Las Vegas
+634,Little Caesars Pizza,36.1948021937,-115.20653004,NV,Las Vegas
+635,Pizza Pizza,43.5776532,-79.6143273,ON,Mississauga
+636,Pizza Hut,41.5033473,-81.5559364,OH,Cleveland Heights
+637,Pizza Nova,43.6767027,-79.4113273,ON,Toronto
+638,Boston Pizza,43.7965878,-79.2037654,ON,Scarborough
+639,Little Caesars Pizza,33.5232612,-112.2014704,AZ,Glendale
+640,Pizza Hut,36.1577770064,-115.1237820174,NV,Las Vegas
+641,Domino's Pizza,41.485638767,-81.7926494969,OH,Lakewood
+642,Pizza Hut,33.67843,-112.27805,AZ,Peoria
+643,Domino's Pizza,51.0713025,-113.9576504,AB,Calgary
+644,Pizza Hut,41.4643582,-81.5625902,OH,Shaker Heights
+645,Hungry Howie's Pizza,41.1536575,-81.3363537,OH,Kent
+646,Pizza Nova,43.7554674,-79.3484244,ON,Toronto
+647,Pizza Hut,36.041622,-115.116664,NV,Las Vegas
+648,Domino's Pizza,36.144594,-115.277173,NV,Las Vegas
+649,Pizza Hut,40.5903417,-79.7379775,PA,Lower Burrell
+650,Pizza Hut,43.8338575316,-79.0911094823,ON,Pickering
+651,Marco's Pizza,41.3657262,-82.1589737,OH,Elyria
+652,Pizza Hut,40.4283402,-79.9774276,PA,Pittsburgh
+653,Papa John's Pizza,33.6387561,-112.3891486,AZ,Surprise
+654,Pizza Hut,43.6436725242,-79.4045886218,ON,Toronto
+655,Domino's Pizza,33.392484,-112.168831,AZ,Laveen
+656,Papa John's Pizza,33.5392012,-111.9229176,AZ,Scottsdale
+657,Domino's Pizza,33.318955,-111.90895,AZ,Chandler
+658,Domino's Pizza,33.3052187082,-112.0567920212,AZ,Phoenix
+659,Little Caesars Pizza,33.4508358,-112.1364546,AZ,Phoenix
+660,Marco's Pizza,33.2971703,-111.7481213,AZ,Gilbert
+661,Pizza Pizza,43.741218,-79.513088,ON,North York
+662,Little Caesars Pizza,40.0944108,-88.1913764,IL,Urbana
+663,Pizza Nova,43.8606468,-79.4881846,ON,Vaughan
+664,Pizza Hut,43.1339873871,-89.3698636807,WI,Madison
+665,Papa John's Pizza,50.944873,-114.068969,AB,Calgary
+666,Domino's Pizza,36.2163022,-115.0928324,NV,Las Vegas
+667,Pizza Hut,35.3232661,-80.9462201,NC,Charlotte
+668,Pizza Pizza,43.7019327,-79.7417839,ON,Brampton
+669,Domino's Pizza,43.7434743,-79.3014255,ON,Scarborough
+670,Little Caesars Pizza,33.479058,-111.909497,AZ,Scottsdale
+671,Papa John's Pizza,41.2378689,-81.8392324,OH,Brunswick
+672,Hungry Howie's Pizza,41.4574073,-81.8931354,OH,Westlake
+673,Pizza Hut,35.94297,-115.115904,NV,Henderson
+674,Papa Murphy's,33.5692042,-111.8886628,AZ,Scottsdale
+675,Pizza Nova,43.7761572,-79.4143746,ON,North York
+676,Pizza Hut,36.160725,-115.2453617,NV,Las Vegas
+677,Papa John's Pizza,35.2125167,-80.8277877,NC,Charlotte
+678,Domino's Pizza,33.4143460071,-111.9289950021,AZ,Tempe
+679,Domino's Pizza,40.535071,-80.229376,PA,Coraopolis
+680,Domino's Pizza,43.085315,-89.300804,WI,Madison
+681,Pizza Hut,36.2194092,-115.3247337,NV,Las Vegas
+682,Papa John's Pizza,43.6509146,-79.4394628,ON,Toronto
+683,Papa John's Pizza,36.0133354,-114.9600762,NV,Henderson
+684,Marco's Pizza,34.9542459647,-80.8506162905,SC,Fort Mill
+685,Papa John's Pizza,33.5696669,-112.1859152,AZ,Glendale
+686,Papa John's Pizza,33.376211,-111.859191,AZ,Mesa
+687,Hungry Howie's Pizza,41.1201959,-81.8649687,OH,Medina
+688,Pizza Hut,33.3780384721,-112.1743264149,AZ,Laveen
+689,Pizza Pizza,43.675968,-79.745855,ON,Brampton
+690,Hungry Howie's Pizza,41.6768195,-81.3114292,OH,Mentor
+691,Papa Murphy's,33.322519,-111.823599,AZ,Chandler
+692,Papa John's Pizza,36.111031,-115.063331,NV,Las Vegas
+693,Domino's Pizza,33.484074,-112.363106,AZ,Goodyear
+694,Papa John's Pizza,33.333655,-111.806298,AZ,Gilbert
+695,Pizza Hut,35.3966113,-80.6083638,NC,Concord
+696,Pizza Hut,41.2243825601,-81.4413189266,OH,Hudson
+697,Domino's Pizza,35.9974375,-115.1019443,NV,Henderson
+698,Marco's Pizza,41.6114959,-81.5224715,OH,Euclid
+699,Domino's Pizza,43.841703,-79.508711,ON,Vaughan
+700,Pizza Hut,41.6776363,-81.309091,OH,Mentor
+701,Pizza Pizza,43.8434411,-79.408106,ON,Richmond Hill
+702,Boston Pizza,51.0489624,-113.9930544,AB,Calgary
+703,Pizza Pizza,43.6659478,-79.3806846,ON,Toronto
+704,Pizza Hut,35.0892447,-80.8683306,NC,Charlotte
+705,Pizza Hut,35.3199107,-80.6687195,NC,Harrisburg
+706,Little Caesars Pizza,33.6532113,-112.1009338,AZ,Phoenix
+707,Pizza Pizza,43.8054466605,-79.3842647136,ON,North York
+708,Little Caesars Pizza,33.537211181,-112.1691789524,AZ,Glendale
+709,Papa John's Pizza,36.1002318771,-115.2097905388,NV,Las Vegas
+710,Pizza Hut,35.278121,-80.766662,NC,Charlotte
+711,Marco's Pizza,41.1100145,-81.5686757,OH,Akron
+712,Pizza Hut,43.7227691,-79.7983613,ON,Brampton
+713,Pizza Pizza,43.4997563,-79.6506272,ON,Oakville
+714,Pizza Hut,41.4145631,-81.5361807,OH,Cleveland
+715,Papa John's Pizza,33.6088164,-112.3571291,AZ,Surprise
+716,Pizza Hut,43.7894830893,-79.417128,ON,Toronto
+717,Domino's Pizza,43.5680281365,-79.6659388393,ON,Mississauga
+718,Pizza Hut,41.6134317,-81.4640482,OH,Wickliffe
+719,Pizza Pizza,43.5931694398,-79.7648340755,ON,Mississauga
+720,Domino's Pizza,40.3100833011,-80.0334441274,PA,Bethel Park
+721,Marco's Pizza,36.0550930904,-115.2833114924,NV,Las Vegas
+722,Pizza Nova,43.7856298,-79.2793312,ON,Toronto
+723,Pizza Hut,33.3194954332,-111.9290033575,AZ,Chandler
+724,Pizza Hut,36.1392610438,-115.1376199722,NV,Las Vegas
+725,Papa John's Pizza,33.4664822,-112.1884245,AZ,Phoenix
+726,Papa John's Pizza,33.375999,-112.167009,AZ,Laveen
+727,Papa John's Pizza,35.119784,-81.08011,SC,Clover
+728,Pizza Hut,36.3171218,-115.2071789,NV,North Las Vegas
+729,Pizza Hut,43.754219,-79.351407,ON,Toronto
+730,Pizza Hut,33.3212152,-111.9795485,AZ,Phoenix
+731,Hungry Howie's Pizza,35.1361786,-80.9369736,NC,Charlotte
+732,Pizza Hut,33.4507373,-111.7725904,AZ,Mesa
+733,Pizza Pizza,43.7699125,-79.3758667,ON,North York
+734,Marco's Pizza,41.371424,-81.8686635,OH,Berea
+735,Domino's Pizza,45.466628,-73.655298,QC,Montréal
+736,Boston Pizza,45.3325815118,-73.287009966,QC,Saint-Jean-sur-Richelieu
+737,Domino's Pizza,36.145835,-115.1903726,NV,Las Vegas
+738,Domino's Pizza,36.1449628679,-115.2051184478,NV,Las Vegas
+739,Domino's Pizza,36.173302,-115.077354,NV,Las Vegas
+740,Hungry Howie's Pizza,35.1922563,-80.8733216,NC,Charlotte
+741,Pizza Hut,43.7048838514,-79.4929611762,ON,Toronto
+742,Pizza Hut,40.4974044,-79.8449371,PA,Verona
+743,Pizza Hut,33.6543385,-112.0667308,AZ,Phoenix
+744,Pizza Hut,33.5387785,-112.1523594,AZ,Glendale
+745,Pizza Hut,35.9981629522,-115.2066554615,NV,Las Vegas
+746,Pizza Hut,35.251371,-81.1898856,NC,Gastonia
+747,Pizza Hut,50.930142,-114.02501,AB,Calgary
+748,Pizza Hut,33.6082766,-112.0668712,AZ,Phoenix
+749,Pizza Pizza,43.6450945,-79.3980696,ON,Toronto
+750,Papa John's Pizza,41.1540118,-81.3515391,OH,Kent
+751,Pizza Nova,43.5595819,-79.5868991,ON,Mississauga
+752,Pizza Pizza,43.9503719,-79.4560056,ON,Richmond Hill
+753,Pizza Hut,43.6778423,-79.3902487,ON,Toronto
+754,Domino's Pizza,44.1140056,-79.566034,ON,Bradford
+755,Pizza Hut,40.3124795,-88.1287523,IL,Rantoul
+756,Boston Pizza,51.0380292,-114.0875861,AB,Calgary
+757,Pizza Pizza,43.7953316,-79.2267188,ON,Scarborough
+758,Marco's Pizza,41.136988,-81.488488,OH,Cuyahoga Fls
+759,Papa John's Pizza,36.2385481,-115.046445,NV,Nellis AFB
+760,Domino's Pizza,35.975326,-114.84501,NV,Boulder City
+761,Papa John's Pizza,33.233858,-111.723631,AZ,Gilbert
+762,Pizza Pizza,43.797486508,-79.4263420471,ON,North York
+763,Papa John's Pizza,41.1127563,-81.5757375,OH,Akron
+764,Pizza Pizza,43.7932506299,-79.4465633321,ON,Thornhill
+765,Pizza Hut,41.1550086,-81.3320784,OH,Kent
+766,Domino's Pizza,43.650107533,-79.4377351552,ON,Toronto
+767,Marco's Pizza,35.4111295,-80.6640339,NC,Concord
+768,Papa Murphy's,40.1134464,-88.2030631,IL,Urbana
+769,Papa Murphy's,33.6519592,-112.2531647,AZ,Peoria
+770,Pizza Hut,35.3535486,-81.0889023,NC,Stanley
+771,Boston Pizza,44.0122878,-79.4151328,ON,Aurora
+772,Domino's Pizza,41.4252514,-81.89878,OH,North Olmsted
+773,Papa Murphy's,36.0335123,-115.2084299,NV,Las Vegas
+774,Pizza Nova,43.7905773,-79.4710256,ON,Vaughan
+775,Pizza Hut,40.500796,-79.943429,PA,Etna
+776,Pizza Hut,35.2792337,-81.1404833,NC,Gastonia
+777,Little Caesars Pizza,43.191104,-89.463054,WI,Waunakee
+778,Papa Murphy's,34.97728,-81.027208,SC,Rock Hill
+779,Pizza Hut,35.2396069,-81.1232275,NC,Gastonia
+780,Pizza Hut,43.1316009,-89.3019937,WI,Madison
+781,Papa John's Pizza,33.5528695002,-112.1337118492,AZ,Phoenix
+782,Pizza Hut,33.2342679,-111.7908572,AZ,Chandler
+783,Pizza Hut,43.6963388,-79.5333982,ON,Etobicoke
+784,Pizza Hut,41.3985977,-81.9964437,OH,North Ridgeville
+785,Pizza Hut,41.5042717,-81.6327038,OH,Cleveland
+786,Domino's Pizza,43.7733596,-79.4930175,ON,North York
+787,Little Caesars Pizza,36.1635947776,-115.2444908585,NV,Las Vegas
+788,Pizza Hut,36.1088879,-115.2781478,NV,Las Vegas
+789,Pizza Hut,36.2915433,-115.2863977,NV,Las Vegas
+790,Pizza Hut,36.1595276,-115.3194631,NV,Las Vegas
+791,Hungry Howie's Pizza,36.3006294,-115.2841268,NV,Las Vegas
+792,Domino's Pizza,43.0497626,-89.5027669,WI,Madison
+793,Pizza Hut,36.20184,-115.282175,NV,Las Vegas
+794,Marco's Pizza,36.0254612,-115.0466595,NV,Henderson
+795,Domino's Pizza,33.4807004,-112.028413,AZ,Phoenix
+796,Domino's Pizza,36.2109214,-115.2799156,NV,Las Vegas
+797,Papa John's Pizza,35.2397926,-80.7975628,NC,Charlotte
+798,Pizza Pizza,43.5922381,-79.6259097,ON,Mississauga
+799,Pizza Hut,35.0953817,-80.7780359,NC,Charlotte
+800,Papa John's Pizza,33.349376765,-111.7572197639,AZ,Gilbert
+801,Papa Murphy's,35.0621896,-80.9928286,SC,Fort Mill
+802,Little Caesars Pizza,41.2390005,-81.3475472,OH,Streetsboro
+803,Pizza Hut,43.0613179,-89.4010982,WI,Madison
+804,Pizza Hut,41.5040495,-81.6746061,OH,Cleveland
+805,Little Caesars Pizza,50.9174673123,-113.9608763005,AB,Calgary
+806,Little Caesars Pizza,36.2178018,-115.2405841,NV,Las Vegas
+807,Domino's Pizza,43.6961027,-79.7720539,ON,Brampton
+808,Domino's Pizza,43.8175972,-79.449897,ON,Vaughan
+809,Domino's Pizza,50.978626,-114.071208,AB,Calgary
+810,Papa John's Pizza,35.3113185,-80.8383195,NC,Charlotte
+811,Papa John's Pizza,43.5969386819,-79.6625056118,ON,Mississauga
+812,Boston Pizza,44.0712207,-79.4838289,ON,Newmarket
+813,Little Caesars Pizza,36.1451024585,-115.0630662392,NV,Las Vegas
+814,Hungry Howie's Pizza,33.3200057,-111.8096749,AZ,Chandler
+815,Papa Murphy's,36.1153986,-115.2626207,NV,Las Vegas
+816,Hungry Howie's Pizza,33.6396391,-112.2022155,AZ,Glendale
+817,Pizza Nova,43.905106258,-79.2677945273,ON,Markham
+818,Papa Murphy's,33.636983,-112.3959909,AZ,Surprise
+819,Pizza Nova,43.6616148,-79.4087992,ON,Toronto
+820,Domino's Pizza,33.5232172,-112.1339665,AZ,Phoenix
+821,Pizza Hut,43.8780306,-79.2408656,ON,Markham
+822,Pizza Hut,35.407082,-80.864037,NC,Huntersville
+823,Pizza Hut,40.3677843,-79.9827153,PA,Pittsburgh
+824,Pizza Hut,41.1508735,-81.5081473,OH,Cuyahoga Falls
+825,Papa John's Pizza,35.2232265,-80.725492,NC,Charlotte
+826,Marco's Pizza,36.128052,-115.314556,NV,Las Vegas
+827,Domino's Pizza,41.199695,-81.439738,OH,Stow
+828,Pizza Hut,35.2546388,-81.0278042,NC,Belmont
+829,Papa Murphy's,33.537386,-112.046433,AZ,Phoenix
+830,Papa John's Pizza,36.021453,-115.119188,NV,Las Vegas
+831,Marco's Pizza,35.0616973,-80.962541,SC,Fort Mill
+832,Domino's Pizza,33.363058,-111.930469,AZ,Tempe
+833,Little Caesars Pizza,40.108833611,-88.2435071468,IL,Champaign
+834,Pizza Nova,43.8383567,-79.0888552,ON,Pickering
+835,Pizza Hut,33.7558515,-111.9929104,AZ,Cave Creek
+836,Papa Murphy's,43.1909557,-89.462998,WI,Waunakee
+837,Domino's Pizza,51.125502,-114.197858,AB,Calgary
+838,Little Caesars Pizza,33.627322,-112.012142,AZ,Phoenix
+839,Papa John's Pizza,41.3817785,-81.7799519,OH,Cleveland
+840,Marco's Pizza,35.1045865,-80.9884179,NC,Charlotte
+841,Domino's Pizza,33.4808986,-112.1507276,AZ,Phoenix
+842,Domino's Pizza,41.4172792,-82.2002088,OH,Amherst
+843,Domino's Pizza,36.0999957,-115.1364347,NV,Las Vegas
+844,Boston Pizza,43.5079749,-79.6675329,ON,Oakville
+845,Papa John's Pizza,36.0723704,-115.099512,NV,Las Vegas
+846,Boston Pizza,45.611647,-73.7008939,QC,Laval
+847,Domino's Pizza,36.2529678,-115.1527173,NV,North Las Vegas
+848,Little Caesars Pizza,33.450828,-112.3600414,AZ,Goodyear
+849,Papa John's Pizza,41.3988799,-81.6895844,OH,Parma
+850,Pizza Hut,51.1233953,-114.203093,AB,Calgary
+851,Pizza Hut,33.5241484,-112.2019585,AZ,Glendale
+852,Pizza Hut,33.379331,-111.787194,AZ,Mesa
+853,Little Caesars Pizza,41.4180069905,-81.9192123413,OH,North Olmsted
+854,Domino's Pizza,43.8278563,-79.2877916,ON,Scarborough
+855,Papa John's Pizza,33.5532410584,-112.0982251035,AZ,Phoenix
+856,Papa John's Pizza,33.6541985,-112.0294133,AZ,Phoenix
+857,Pizza Hut,33.5658429,-112.1521781,AZ,Glendale
+858,Pizza Pizza,45.4930129,-73.5799211,QC,Montréal
+859,Little Caesars Pizza,51.0823234414,-114.09239389,AB,Calgary
+860,Hungry Howie's Pizza,35.0685804,-80.6767979,NC,Indian Trail
+861,Pizza Nova,43.643021,-79.3919503,ON,Toronto
+862,Papa Murphy's,40.0972378,-88.2757788,IL,Champaign
+863,Pizza Hut,41.4646606,-82.1327089,OH,Lorain
+864,Domino's Pizza,33.4805337,-111.935543,AZ,Scottsdale
+865,Papa Murphy's,33.6191661,-111.8760361,AZ,Scottsdale
+866,Pizza Hut,40.5072549,-80.2226832,PA,Coraopolis
+867,Pizza Hut,43.6413126,-79.5773763,ON,Etobicoke
+868,Papa John's Pizza,36.1584565,-115.3171465,NV,Las Vegas
+869,Pizza Nova,43.8822302,-79.4410797,ON,Richmond Hill
+870,Pizza Hut,43.7026571,-79.7382729,ON,Brampton
+871,Pizza Pizza,43.6618689,-79.3830445,ON,Toronto
+872,Pizza Hut,33.4052285,-111.9788482,AZ,Phoenix
+873,Papa John's Pizza,41.5010177,-81.5212617,OH,Cleveland
+874,Little Caesars Pizza,35.312455,-80.713534,NC,Charlotte
+875,Papa John's Pizza,35.383282,-80.581321,NC,Concord
+876,Domino's Pizza,50.9324294753,-113.9830968356,AB,Calgary
+877,Papa John's Pizza,33.565492,-112.252947,AZ,Peoria
+878,Domino's Pizza,33.5094011,-112.06132,AZ,Phoenix
+879,Marco's Pizza,41.484496,-81.801103,OH,Lakewood
+880,Pizza Hut,36.1153822,-115.0680757,NV,Las Vegas
+881,Papa Murphy's,33.3353542,-111.7597427,AZ,Gilbert
+882,Domino's Pizza,40.124186,-88.2004984,IL,Urbana
+883,Marco's Pizza,35.383842,-80.78614,NC,Huntersville
+884,Papa John's Pizza,40.1103355,-88.2379969,IL,Champaign
+885,Domino's Pizza,33.3196702,-111.8606666,AZ,Chandler
+886,Pizza Hut,43.2393613,-89.342612,WI,De Forest
+887,Papa John's Pizza,41.449771,-81.8164605,OH,Cleveland
+888,Pizza Hut,35.1408488,-80.7402718,NC,Charlotte
+889,Domino's Pizza,40.4689157,-79.8235826,PA,Pittsburgh
+890,Little Caesars Pizza,43.5247563,-79.6851138,ON,Mississauga
+891,Pizza Hut,43.7420621,-79.5933844,ON,Toronto
+892,Marco's Pizza,36.2619982,-115.2067474,NV,North Las Vegas
+893,Pizza Hut,35.2944085,-80.7447832,NC,Charlotte
+894,Pizza Hut,33.3985754,-112.0726293,AZ,Phoenix
+895,Domino's Pizza,45.5399708,-73.6116652,QC,Montréal
+896,Domino's Pizza,51.061215,-114.062783,AB,Calgary
+897,Pizza Hut,33.492869,-112.202377,AZ,Phoenix
+898,Papa Murphy's,36.0143046,-114.964348,NV,Henderson
+899,Pizza Hut,36.0832757188,-115.0322994557,NV,Las Vegas
+900,Pizza Hut,36.0121407,-114.964577,NV,Henderson
+901,Boston Pizza,43.6364594245,-79.692366819,ON,Mississauga
+902,Domino's Pizza,43.6416947,-79.4020503,ON,Toronto
+903,Little Caesars Pizza,33.5371177473,-112.2394554147,AZ,Glendale
+904,Little Caesars Pizza,40.3583525,-80.0012115,PA,Pittsburgh
+905,Pizza Nova,43.692127,-79.532028,ON,Etobicoke
+906,Pizza Hut,35.5352195,-80.7995161,NC,Mooresville
+907,Papa Murphy's,36.0403026412,-115.0475952275,NV,Henderson
+908,Papa Murphy's,33.3775636,-111.8768373,AZ,Mesa
+909,Domino's Pizza,35.482226,-80.880551,NC,Cornelius
+910,Pizza Hut,41.1396865,-81.4400982,OH,Munroe Falls
+911,Pizza Hut,35.1178263,-80.6960262,NC,Matthews
+912,Papa John's Pizza,33.6399444,-112.1497746,AZ,Glendale
+913,Pizza Hut,40.543238,-80.01371,PA,Pittsburgh
+914,Domino's Pizza,33.5607669,-112.0648466,AZ,Phoenix
+915,Hungry Howie's Pizza,35.052884,-80.815583,NC,Charlotte
+916,Pizza Hut,35.3703445928,-80.5502068687,NC,Concord
+917,Domino's Pizza,43.7099144,-79.7908416,ON,Brampton
+918,Pizza Hut,33.594418,-112.378433,AZ,Surprise
+919,Little Caesars Pizza,33.3616118821,-111.7896769568,AZ,Gilbert
+920,Hungry Howie's Pizza,41.485572,-81.8107967,OH,Lakewood
+921,Pizza Hut,43.6956732,-79.4515145,ON,Toronto
+922,Marco's Pizza,41.1654526,-81.4392963,OH,Stow
+923,Domino's Pizza,40.5998475239,-79.9466154331,PA,Allison Park
+924,Papa John's Pizza,36.2994614,-115.2804654,NV,Las Vegas
+925,Papa Murphy's,33.5243379,-112.2037058,AZ,Glendale
+926,Domino's Pizza,43.7450128,-79.7200497,ON,Brampton
+927,Pizza Pizza,43.8622012,-79.4860528,ON,Vaughan
+928,Pizza Hut,40.1101088,-88.2323072,IL,Champaign
+929,Pizza Hut,43.6526222,-79.4710037,ON,Toronto
+930,Papa John's Pizza,33.4704454,-111.9257685,AZ,Scottsdale
+931,Little Caesars Pizza,36.2176985,-115.2405689,NV,Las Vegas
+932,Domino's Pizza,43.601733,-79.5008951,ON,Toronto
+933,Pizza Pizza,43.7248400041,-79.28991885,ON,Toronto
+934,Boston Pizza,51.0673646414,-114.1163489116,AB,Calgary
+935,Papa John's Pizza,35.4022246,-80.7598498,NC,Concord
+936,Pizza Nova,43.723916,-79.814008,ON,Brampton
+937,Papa Murphy's,33.7129651785,-112.2742193919,AZ,Peoria
+938,Pizza Hut,35.3648706,-80.7867722,NC,Charlotte
+939,Pizza Pizza,43.6548736,-79.4146812,ON,Toronto
+940,Little Caesars Pizza,33.3935893,-111.8770733,AZ,Mesa
+941,Papa John's Pizza,40.0980033,-88.1927509,IL,Urbana
+942,Papa John's Pizza,35.1168080295,-80.9623118409,NC,Charlotte
+943,Pizza Hut,33.6408819,-112.0293328,AZ,Phoenix
+944,Papa John's Pizza,35.1708445,-80.7457141,NC,Charlotte
+945,Domino's Pizza,33.60981,-112.1690583,AZ,Glendale
+946,Little Caesars Pizza,35.0136084,-80.5700053,NC,Monroe
+947,Pizza Pizza,43.7686116308,-79.18804035,ON,Toronto
+948,Pizza Hut,36.238059,-115.210341,NV,Las Vegas
+949,Papa Murphy's,33.6083997,-111.7296257,AZ,Fountain Hills
+950,Marco's Pizza,41.3400851,-81.4358601,OH,Twinsburg
+951,Pizza Hut,41.4611486,-81.0725198,OH,Middlefield
+952,Papa John's Pizza,40.3946,-80.035252,PA,Pittsburgh
+953,Papa John's Pizza,35.3258902,-80.9463896,NC,Charlotte
+954,Papa Murphy's,33.2182734301,-111.8223184579,AZ,Chandler
+955,Papa John's Pizza,33.610269,-112.4219287,AZ,Surprise
+956,Marco's Pizza,41.3936667,-81.5364615,OH,Bedford
+957,Pizza Hut,40.1202096,-88.2772715,IL,Champaign
+958,Pizza Nova,43.6693296,-79.3037379,ON,Toronto
+959,Papa Murphy's,42.9218621,-89.2497826,WI,Stoughton
+960,Boston Pizza,43.6185789,-79.5440988,ON,Toronto
+961,Papa John's Pizza,41.6098851,-81.5251536,OH,Euclid
+962,Pizza Hut,40.392088,-79.987301,PA,Pittsburgh
+963,Domino's Pizza,40.4417516,-79.9994406,PA,Pittsburgh
+964,Domino's Pizza,33.4955704,-112.0038326,AZ,Phoenix
+965,Boston Pizza,40.1451769,-88.258404,IL,Champaign
+966,Little Caesars Pizza,33.4663727,-112.1535005,AZ,Phoenix
+967,Little Caesars Pizza,35.41059,-80.853365,NC,Huntersville
+968,Pizza Nova,43.8505459245,-79.357435517,ON,Markham
+969,Pizza Pizza,43.7076725,-79.3981607,ON,Toronto
+970,Pizza Hut,41.3854403,-81.436374,OH,Solon
+971,Papa John's Pizza,35.473394,-80.610222,NC,Kannapolis
+972,Pizza Pizza,43.6652249,-79.4114287,ON,Toronto
+973,Pizza Hut,43.836159,-79.506367,ON,Concord
+974,Pizza Pizza,43.6857008,-79.5235907,ON,Toronto
+975,Pizza Hut,41.6088331,-81.52502,OH,Euclid
+976,Domino's Pizza,41.2462024,-81.3448831,OH,Streetsboro
+977,Pizza Hut,40.6015544,-79.9477458,PA,Allison Park
+978,Domino's Pizza,36.092147,-115.2085074,NV,Las Vegas
+979,Pizza Nova,43.6852646,-79.3154627,ON,Toronto
+980,Pizza Hut,33.3208935,-111.8419859,AZ,Chandler
+981,Domino's Pizza,40.4720189065,-79.914773291,PA,Pittsburgh
+982,Hungry Howie's Pizza,35.470308,-80.611412,NC,Kannapolis
+983,Papa John's Pizza,33.7115673,-112.2715135,AZ,Peoria
+984,Little Caesars Pizza,41.477317,-81.7832857,OH,Lakewood
+985,Boston Pizza,43.8699127808,-78.9123170124,ON,Whitby
+986,Pizza Hut,33.3299545447,-111.6918182373,AZ,Higley
+987,Pizza Hut,43.1936968,-89.4617636,WI,Waunakee
+988,Pizza Hut,35.3337455,-80.7951457,NC,Charlotte
+989,Domino's Pizza,35.426748,-80.5961978,NC,Concord
+990,Little Caesars Pizza,36.2473932,-115.2096463,NV,Las Vegas
+991,Pizza Hut,40.3945678,-80.0669745,PA,Pittsburgh
+992,Pizza Hut,35.9722881,-114.8495392,NV,Boulder City
+993,Hungry Howie's Pizza,33.364791,-111.8783309,AZ,Mesa
+994,Domino's Pizza,41.160004,-81.863155,OH,Medina
+995,Domino's Pizza,33.492868,-112.292393,AZ,Avondale
+996,Papa John's Pizza,36.1864435,-115.2243211,NV,Las Vegas
+997,Pizza Hut,43.5867092,-79.6098135,ON,Mississauga
+998,Pizza Hut,40.3377829,-79.9504723,PA,Pittsburgh
+999,Boston Pizza,43.8458393906,-79.0710686035,ON,Pickering
+1000,Pizza Hut,43.6719461,-79.3852273,ON,Toronto
+1001,Domino's Pizza,43.7834087,-79.5761942,ON,Woodbridge
+1002,Hungry Howie's Pizza,35.217116,-81.157421,NC,Gastonia
+1003,Papa John's Pizza,41.313399,-81.5120663,OH,Macedonia
+1004,Papa Murphy's,43.0509844264,-89.4737807661,WI,Madison
+1005,Marco's Pizza,33.7115207508,-112.2033539025,AZ,Peoria
+1006,Domino's Pizza,44.0574628,-79.4602025,ON,Newmarket
+1007,Pizza Pizza,43.7604548,-79.3255941,ON,North York
+1008,Papa John's Pizza,51.0381873,-114.0896527,AB,Calgary
+1009,Pizza Pizza,43.6669739,-79.4035895,ON,Toronto
+1010,Hungry Howie's Pizza,33.4504389,-111.8049064,AZ,Mesa
+1011,Hungry Howie's Pizza,35.4589201638,-80.8889990992,NC,Cornelius
+1012,Boston Pizza,43.6568994,-79.4355343,ON,Toronto
+1013,Domino's Pizza,43.8275826,-79.0913835,ON,Pickering
+1014,Domino's Pizza,40.1958657,-88.399785,IL,Mahomet
+1015,Boston Pizza,51.0006521664,-114.0748879347,AB,Calgary
+1016,Pizza Hut,33.5964559604,-112.0148011753,AZ,Phoenix
+1017,Marco's Pizza,41.5210509,-81.5304425,OH,Cleveland
+1018,Domino's Pizza,33.639081,-112.390655,AZ,Surprise
+1019,Papa John's Pizza,35.0315252095,-80.9676051604,SC,Fort Mill
+1020,Pizza Hut,36.261321496,-115.2473841554,NV,Las Vegas
+1021,Little Caesars Pizza,33.3337272,-111.7717961,AZ,Gilbert
+1022,Domino's Pizza,41.445948,-81.8549242,OH,Fairview Park
+1023,Hungry Howie's Pizza,35.286686,-80.727098,NC,Charlotte
+1024,Pizza Hut,33.4508314,-111.7008303,AZ,Mesa
+1025,Pizza Pizza,43.7841871,-79.2921506,ON,Scarborough
+1026,Domino's Pizza,33.5667741,-112.1024556,AZ,Phoenix
+1027,Little Caesars Pizza,43.1794345,-89.2361739,WI,Sun Prairie
+1028,Domino's Pizza,33.6184019634,-111.9253628701,AZ,Scottsdale
+1029,Marco's Pizza,43.1881687,-89.2268204,WI,Sun Prairie
+1030,Pizza Hut,36.0209179483,-115.267488816,NV,Las Vegas
+1031,Domino's Pizza,43.4651218,-79.6843192,ON,Oakville
+1032,Boston Pizza,43.6575079233,-79.3274326404,ON,Toronto
+1033,Boston Pizza,43.6510005,-79.887957,ON,Georgetown
+1034,Pizza Hut,41.1554654,-81.3993896,OH,Stow
+1035,Papa John's Pizza,35.0485407,-80.6463484,NC,Indian Trail
+1036,Pizza Hut,33.4076919,-111.9501765,AZ,Tempe
+1037,Pizza Hut,33.4936748,-112.236306,AZ,Phoenix
+1038,Hungry Howie's Pizza,33.6536166,-112.1352214,AZ,Glendale
+1039,Boston Pizza,43.8855704,-79.3707108,ON,Markham
+1040,Papa Murphy's,35.3731343042,-80.7883273065,NC,Charlotte
+1041,Hungry Howie's Pizza,33.395321,-111.752909,AZ,Mesa
+1042,Pizza Nova,43.7514339,-79.7386292,ON,Brampton
+1043,Little Caesars Pizza,33.6090402,-112.3925976,AZ,Surprise
+1044,Boston Pizza,50.9313724604,-113.9708400377,AB,Calgary
+1045,Domino's Pizza,41.6376434,-81.4086539,OH,Willoughby
+1046,Boston Pizza,43.8533454776,-79.2574310303,ON,Markham
+1047,Domino's Pizza,33.6093771761,-112.3290068354,AZ,El Mirage
+1048,Pizza Hut,36.0494801256,-115.2437653816,NV,Las Vegas
+1049,Pizza Pizza,43.661054,-79.429089,ON,Toronto
+1050,Pizza Hut,36.1955205956,-115.1155382175,NV,North Las Vegas
+1051,Papa John's Pizza,35.0571464063,-80.9338453467,SC,Fort Mill
+1052,Little Caesars Pizza,35.2879717,-81.0177733,NC,Mount Holly
+1053,Pizza Hut,43.861202229,-79.4356170008,ON,Richmond Hill
+1054,Pizza Hut,43.806776,-79.2216764,ON,Scarborough
+1055,Domino's Pizza,33.5804581,-112.1335903,AZ,Phoenix
+1056,Domino's Pizza,40.3753450356,-79.9836302319,PA,Brentwood
+1057,Pizza Pizza,43.6777176,-79.6248197,ON,Mississauga
+1058,Pizza Pizza,43.7331732,-79.5888316,ON,Etobicoke
+1059,Little Caesars Pizza,33.6557139,-112.0621105,AZ,Phoenix
+1060,Papa John's Pizza,41.5238172,-81.5896139,OH,East Cleveland
+1061,Papa Murphy's,35.083614,-80.73312,NC,Matthews
+1062,Papa John's Pizza,35.4362357,-80.8657344,NC,Huntersville
+1063,Pizza Pizza,43.6018718,-79.5011515,ON,Etobicoke
+1064,Pizza Nova,43.6094846,-79.5865477,ON,Mississauga
+1065,Domino's Pizza,33.4229267,-111.8393918,AZ,Mesa
+1066,Pizza Hut,43.6475595,-79.3704531,ON,Toronto
+1067,Boston Pizza,50.9414743,-114.0687253,AB,Calgary
+1068,Domino's Pizza,43.5827346,-79.7651334,ON,Mississauga
+1069,Papa John's Pizza,33.4348971,-111.822232,AZ,Mesa
+1070,Little Caesars Pizza,51.0928063,-113.9664724,AB,Calgary
+1071,Domino's Pizza,33.5226529,-112.2024949,AZ,Glendale
+1072,Marco's Pizza,35.2899191309,-81.0174095296,NC,Mount Holly
+1073,Pizza Nova,43.8892700056,-79.316359,ON,Markham
+1074,Papa John's Pizza,41.5204177,-81.4741793,OH,Cleveland
+1075,Little Caesars Pizza,33.5943632,-112.2207511,AZ,Peoria
+1076,Papa John's Pizza,41.482898,-81.8262139,OH,Cleveland
+1077,Papa John's Pizza,35.211766,-80.7813841,NC,Charlotte
+1078,Pizza Hut,40.6140119,-80.0544968,PA,Wexford
+1079,Papa John's Pizza,41.416393,-81.6058962,OH,Cleveland
+1080,Pizza Hut,41.411767,-81.930284,OH,North Olmsted
+1081,Papa John's Pizza,33.2330891,-111.8603053,AZ,Chandler
+1082,Domino's Pizza,33.3798168,-111.6852012,AZ,Mesa
+1083,Pizza Hut,43.6439342,-79.4042388,ON,Toronto
+1084,Pizza Nova,43.6419487293,-79.4117577169,ON,Toronto
+1085,Domino's Pizza,36.0189708287,-115.1175744641,NV,Las Vegas
+1086,Little Caesars Pizza,36.3026183271,-115.2823048807,NV,Las Vegas
+1087,Papa Murphy's,33.452025,-111.8036197,AZ,Mesa
+1088,Hungry Howie's Pizza,36.2757612,-115.1804399,NV,Las Vegas
+1089,Pizza Pizza,43.8304101,-79.1221546,ON,Pickering
+1090,Domino's Pizza,40.4286815,-79.9946531,PA,Pittsburgh
+1091,Pizza Hut,33.623881,-111.942533,AZ,Scottsdale
+1092,Papa John's Pizza,51.137925,-114.185243,AB,Calgary
+1093,Domino's Pizza,43.5803869,-79.7274079,ON,Mississauga
+1094,Pizza Pizza,43.858096792,-79.332040742,ON,Markham
+1095,Pizza Pizza,43.7062485,-79.3891646,ON,Toronto
+1096,Domino's Pizza,43.7056729,-79.2510097,ON,Scarborough
+1097,Pizza Hut,35.1897454,-80.8749903,NC,Charlotte
+1098,Boston Pizza,51.1058866255,-114.1636511403,AB,Calgary
+1099,Papa John's Pizza,36.0241322062,-115.0631005926,NV,Henderson
+1100,Pizza Pizza,43.7884887204,-79.548258296,ON,Woodbridge
+1101,Boston Pizza,43.6110003,-79.7486271,ON,Mississauga
+1102,Little Caesars Pizza,33.5802239,-112.1518963,AZ,Glendale
+1103,Pizza Hut,33.4948056,-112.0995026,AZ,Phoenix
+1104,Papa Murphy's,33.6555665,-112.0119988918,AZ,Phoenix
+1105,Papa John's Pizza,36.3011557,-115.2826413,NV,Las Vegas
+1106,Papa Murphy's,33.7515572,-111.9913147,AZ,Cave Creek
+1107,Domino's Pizza,45.5176077,-73.5822605,QC,Montréal
+1108,Pizza Hut,43.7006359,-79.3735263,ON,Toronto
+1109,Pizza Pizza,43.8924511223,-79.2915227522,ON,Markham
+1110,Pizza Hut,41.3866152,-81.7689404,OH,Parma Heights
+1111,Pizza Pizza,43.6687021,-79.3055517,ON,Toronto
+1112,Pizza Hut,43.0160734,-89.4970662,WI,Madison
+1113,Pizza Hut,40.2622500517,-80.1754761457,PA,Canonsburg
+1114,Pizza Nova,43.7075699,-79.3901685,ON,Toronto
+1115,Domino's Pizza,36.1591497,-115.0463891,NV,Las Vegas
+1116,Papa John's Pizza,35.3675829,-80.6654208,NC,Concord
+1117,Pizza Hut,36.2745259,-115.1443763,NV,North Las Vegas
+1118,Pizza Hut,41.3070231,-81.4393579,OH,Twinsburg
+1119,Pizza Pizza,43.658955,-79.372674,ON,Toronto
+1120,Boston Pizza,43.8285530429,-79.5410550274,ON,Vaughan
+1121,Domino's Pizza,43.952874728,-79.4554064469,ON,Oakridges
+1122,Domino's Pizza,33.4152152,-111.6905265,AZ,Mesa
+1123,Papa John's Pizza,51.0707127,-114.1169116,AB,Calgary
+1124,Pizza Hut,33.6395295139,-112.2766101541,AZ,Sun City
+1125,Domino's Pizza,36.2877468,-115.1786798,NV,North Las Vegas
+1126,Pizza Pizza,44.1121646,-79.5708139,ON,Bradford
+1127,Domino's Pizza,35.4867674,-80.6107022,NC,Kannapolis
+1128,Domino's Pizza,45.512093,-73.677872,QC,Saint-Laurent
+1129,Domino's Pizza,35.0226380865,-80.846740182,NC,Charlotte
+1130,Boston Pizza,43.7072315,-79.397072,ON,Toronto
+1131,Papa John's Pizza,36.261408097,-115.1552187196,NV,North Las Vegas
+1132,Boston Pizza,51.1229201145,-113.9463961387,AB,Calgary
+1133,Domino's Pizza,33.285206,-111.685437,AZ,Queen Creek
+1134,Pizza Hut,41.7071043,-81.2673911,OH,Painesville
+1135,Boston Pizza,36.1530812,-115.1509664,NV,Las Vegas
+1136,Domino's Pizza,43.6025449,-79.6488145,ON,Mississauga
+1137,Papa John's Pizza,33.3203504,-111.9918903,AZ,Phoenix
+1138,Papa John's Pizza,35.1725039,-80.9622819,NC,Charlotte
+1139,Domino's Pizza,33.4236014,-112.2257809,AZ,Phoenix
+1140,Domino's Pizza,43.719231611,-79.5947630703,ON,Toronto
+1141,Domino's Pizza,43.748847,-79.3476558,AB,North York
+1142,Domino's Pizza,40.434955,-79.753561,PA,Monroeville
+1143,Pizza Hut,34.9688644,-80.9929348,SC,Rock Hill
+1144,Pizza Hut,43.844649,-79.554719,ON,Vaughan
+1145,Pizza Nova,43.8173234,-79.602129,ON,Vaughan
+1146,Domino's Pizza,43.7531566,-79.4509407,ON,Toronto
+1147,Domino's Pizza,33.6988311,-112.1409257,AZ,Glendale
+1148,Marco's Pizza,41.4033979,-81.689779,OH,Parma
+1149,Domino's Pizza,33.8446077701,-112.1345720038,AZ,Phoenix
+1150,Papa John's Pizza,33.4212346,-111.9515082,AZ,Tempe
+1151,Boston Pizza,45.4072249717,-74.0405077735,QC,Vaudreuil
+1152,Pizza Hut,33.3788183,-111.6905887,AZ,Mesa
+1153,Pizza Hut,41.520492,-81.4680511,OH,Mayfield Heights
+1154,Pizza Pizza,45.5473691857,-73.5756307534,QC,Montréal
+1155,Domino's Pizza,43.8501143382,-79.4447648898,ON,Richmond Hill
+1156,Domino's Pizza,43.6690382,-79.4129769,ON,Toronto
+1157,Pizza Hut,41.3714780043,-81.8268478105,OH,Middleburg Heights
+1158,Pizza Pizza,43.6808325,-79.2839062,ON,Scarborough
+1159,Pizza Hut,33.5871096156,-111.8373498823,AZ,Scottsdale
+1160,Papa John's Pizza,41.1339831,-81.8637534,OH,Medina
+1161,Papa Murphy's,33.3761660685,-112.170919605,AZ,Laveen Village
+1162,Pizza Hut,33.3048185,-112.0160588,AZ,Phoenix
+1163,Marco's Pizza,41.4262101,-82.0755871,OH,Sheffield Village
+1164,Marco's Pizza,40.094481,-88.1913992,IL,Urbana
+1165,Boston Pizza,43.9631135664,-79.2533218861,ON,Stouffville
+1166,Pizza Pizza,43.8801741,-78.9388474,ON,Whitby
+1167,Domino's Pizza,36.1587616,-115.2242537,NV,Las Vegas
+1168,Pizza Pizza,43.7224551,-79.2351613,ON,Scarborough
+1169,Pizza Hut,43.0155511,-89.3026243,WI,Mc Farland
+1170,Pizza Nova,43.6770208384,-79.3553048372,ON,Toronto
+1171,Boston Pizza,50.9028966189,-114.0657476814,AB,Calgary
+1172,Little Caesars Pizza,43.8470749965,-79.5356662258,ON,Vaughan
+1173,Pizza Hut,33.417347,-111.788637,AZ,Mesa
+1174,Domino's Pizza,41.4641507,-81.7611939,OH,Cleveland
+1175,Pizza Pizza,45.517136894,-73.5575714422,QC,Montréal
+1176,Domino's Pizza,51.0380757,-114.1334855,AB,Calgary
+1177,Marco's Pizza,36.2967459,-115.2884813,NV,Las Vegas
+1178,Pizza Hut,43.1887242,-89.227899,WI,Sun Prairie
